@@ -1,5 +1,5 @@
-title: PistonOS
-description: The Ultimate Linux Gaming Distro
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
